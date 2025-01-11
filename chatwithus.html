@@ -1,0 +1,31 @@
+<html>
+    <head> </head>
+    <style>
+        
+    </style>
+        <body>
+            <button onclick="initEmbeddedMessaging()"> Start</button>
+            <script type='text/javascript'>
+                function initEmbeddedMessaging() {
+                    try {
+                        embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
+            
+                        embeddedservice_bootstrap.init(
+                            '00DWt000004PSej',
+                            'Order_Management_Web_Deployment',
+                            'https://storm-27d5cb8c5930f5.my.site.com/ESWOrderManagementWebD1736150398817',
+                            {
+                                scrt2URL: 'https://storm-27d5cb8c5930f5.my.salesforce-scrt.com'
+                            }
+                        );
+                    } catch (err) {
+                        console.error('Error loading Embedded Messaging: ', err);
+                    }
+                };
+            </script>
+            <script type='text/javascript' src='https://storm-27d5cb8c5930f5.my.site.com/ESWOrderManagementWebD1736150398817/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+            
+            
+        </body>          
+    
+</html>
