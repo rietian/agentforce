@@ -1,0 +1,30 @@
+{
+  "orderNumber": "70000052327022",
+  "poNumber": "Sagal abdulle14-JAN-25 20:46:02",
+  "orderSystem": "Salesforce",
+  "status": "Closed",
+  "type": "print",
+  "orderDate": "2024-12-05",
+  "origSalelcderNumber": "54716322",
+  "amount": "14.99",
+  "totalOrdecLines": "5",
+  "currency": "USD",
+  "shipToZipCode": "65613",
+  "billToZipCode": "65613",
+  "invoiceNumber": "25013457",
+  "invoiceDate": "2024-11-28",
+  "invoiceDueAmount": "0",
+  "class": "INV",
+  "lines": [
+    {
+      "number": "1.1",
+      "title": "statGrunch -- Instant Access (6-month access)",
+      "isbo": "978058260391",
+      "requestDate": "2024-11-28",
+      "shippedDate": "2024-12-30",
+      "trackingNumber": "tracking#123",
+      "freightCode": "UPS",
+      "estDelivecyDate": "2025-01-15"
+    }
+  ]
+}
