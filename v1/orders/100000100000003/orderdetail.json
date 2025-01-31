@@ -7,6 +7,7 @@
   "orderDate": "2025-01-12",
   "origSaleOrderNumber": "57418123",
   "amount": "1054.22",
+  "totalOrderLines":"1",
   "currency": "USD",
   "invoiceNumber": "25020003",
   "invoiceDate": "2025-01-13",
