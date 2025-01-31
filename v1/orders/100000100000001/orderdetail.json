@@ -14,7 +14,7 @@
   "invoiceNumber": "25013457",
   "invoiceDate": "2024-11-28",
   "invoiceDueAmount": "0",
-  "class": "INV",
+  "invoiceClass": "INV",
   "lines": [
     {
       "number": "1.1",
@@ -48,7 +48,7 @@
       "shippedDate": "2024-12-29",
       "trackingNumber": "tracking#124",
       "freightCode": "UPS",
-      "estDelivecyDate": "2025-01-14",
+      "estDeliveryDate": "2025-01-14",
       "latestStatusUpdateDate": "2025-01-14",
       "carrier": "FedEx",
       "pickStatus": "Picked"
@@ -65,7 +65,7 @@
       "shippedDate": "2024-12-30",
       "trackingNumber": "tracking#125",
       "freightCode": "DHL",
-      "estDelivecyDate": "2025-01-16",
+      "estDeliveryDate": "2025-01-16",
       "latestStatusUpdateDate": "2025-01-16",
       "carrier": "DHL",
       "pickStatus": "Shipped"
@@ -82,7 +82,7 @@
       "shippedDate": "2024-12-30",
       "trackingNumber": "tracking#126",
       "freightCode": "FedEx",
-      "estDelivecyDate": "2025-01-17",
+      "estDeliveryDate": "2025-01-17",
       "latestStatusUpdateDate": "2025-01-17",
       "carrier": "FedEx",
       "pickStatus": "Delivered"
@@ -99,7 +99,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#127",
       "freightCode": "UPS",
-      "estDelivecyDate": "2025-01-18",
+      "estDeliveryDate": "2025-01-18",
       "latestStatusUpdateDate": "2025-01-18",
       "carrier": "UPS",
       "pickStatus": "Delivered"
@@ -116,7 +116,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#128",
       "freightCode": "DHL",
-      "estDelivecyDate": "2025-01-19",
+      "estDeliveryDate": "2025-01-19",
       "latestStatusUpdateDate": "2025-01-19",
       "carrier": "DHL",
       "pickStatus": "Delivered"
@@ -133,7 +133,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#129",
       "freightCode": "FedEx",
-      "estDelivecyDate": "2025-01-20",
+      "estDeliveryDate": "2025-01-20",
       "latestStatusUpdateDate": "2025-01-20",
       "carrier": "FedEx",
       "pickStatus": "Shipped"
@@ -150,7 +150,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#130",
       "freightCode": "UPS",
-      "estDelivecyDate": "2025-01-21",
+      "estDeliveryDate": "2025-01-21",
       "latestStatusUpdateDate": "2025-01-21",
       "carrier": "UPS",
       "pickStatus": "Delivered"
@@ -167,7 +167,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#131",
       "freightCode": "DHL",
-      "estDelivecyDate": "2025-01-22",
+      "estDeliveryDate": "2025-01-22",
       "latestStatusUpdateDate": "2025-01-22",
       "carrier": "DHL",
       "pickStatus": "Shipped"
@@ -184,7 +184,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#132",
       "freightCode": "FedEx",
-      "estDelivecyDate": "2025-01-23",
+      "estDeliveryDate": "2025-01-23",
       "latestStatusUpdateDate": "2025-01-23",
       "carrier": "FedEx",
       "pickStatus": "Shipped"
@@ -201,7 +201,7 @@
       "shippedDate": "2024-12-31",
       "trackingNumber": "tracking#133",
       "freightCode": "UPS",
-      "estDelivecyDate": "2025-01-24",
+      "estDeliveryDate": "2025-01-24",
       "latestStatusUpdateDate": "2025-01-24",
       "carrier": "UPS",
       "pickStatus": "Delivered"
