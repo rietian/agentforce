@@ -14,7 +14,7 @@
   "invoiceNumber": "25013457",
   "invoiceDate": "2024-11-28",
   "invoiceDueAmount": "0",
-  "invoiceClass": "INV",
+  "class": "INV",
   "lines": [
     {
       "number": "1.1",
