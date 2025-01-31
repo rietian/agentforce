@@ -7,7 +7,7 @@
   "orderDate": "2025-01-13",
   "origSaleOrderNumber": "57418124",
   "amount": "125075.00",
-  "totalOrderLines":"101",
+  "totalOrderLines": "101",
   "currency": "USD",
   "invoiceNumber": "25020004",
   "invoiceDate": "2025-01-14",
@@ -29,7 +29,10 @@
       "freightCode": "UPS",
       "estDeliveryDate": "2025-01-22",
       "carrier": "UPS",
-      "pickStatus": "Picked"
+      "pickStatus": "Picked",
+      "digitalProvisioningEmail": "test@test.email",
+      "lastAvaibaleDate": "2025-01-22",
+      "CancelledReason": "A cancelled reason.",
     },
     {
       "number": "2.1",
