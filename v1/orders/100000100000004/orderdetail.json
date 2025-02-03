@@ -55,7 +55,7 @@
       "title": "Cloud Computing - Volume 3",
       "isbn": "9782233445503",
       "type": "print",
-      "status": "Closed",
+      "status": "Awaiting Shipping",
       "price": "1250.75",
       "quantity": "1",
       "requestDate": "2025-01-13",
@@ -64,14 +64,14 @@
       "freightCode": "UPS",
       "estDeliveryDate": "2025-01-22",
       "carrier": "UPS",
-      "pickStatus": "Picked"
+      "pickStatus": "Shipped"
     },
     {
       "number": "4.1",
       "title": "Cloud Computing - Volume 4",
       "isbn": "9782233445504",
       "type": "print",
-      "status": "Closed",
+      "status": "Awaiting Fulfullment",
       "price": "1250.75",
       "quantity": "1",
       "requestDate": "2025-01-13",
@@ -80,14 +80,14 @@
       "freightCode": "UPS",
       "estDeliveryDate": "2025-01-22",
       "carrier": "UPS",
-      "pickStatus": "Picked"
+      "pickStatus": "Awaiting Fulfullment"
     },
     {
       "number": "5.1",
       "title": "Cloud Computing - Volume 5",
       "isbn": "9782233445505",
       "type": "print",
-      "status": "Closed",
+      "status": "Booked",
       "price": "1250.75",
       "quantity": "1",
       "requestDate": "2025-01-13",
@@ -96,14 +96,14 @@
       "freightCode": "UPS",
       "estDeliveryDate": "2025-01-22",
       "carrier": "UPS",
-      "pickStatus": "Picked"
+      "pickStatus": "Booked"
     },
     {
       "number": "6.1",
       "title": "Cloud Computing - Volume 6",
       "isbn": "9782233445506",
       "type": "print",
-      "status": "Closed",
+      "status": "Entered",
       "price": "1250.75",
       "quantity": "1",
       "requestDate": "2025-01-13",
@@ -112,7 +112,7 @@
       "freightCode": "UPS",
       "estDeliveryDate": "2025-01-22",
       "carrier": "UPS",
-      "pickStatus": "Picked"
+      "pickStatus": "Entered"
     },
     {
       "number": "7.1",
