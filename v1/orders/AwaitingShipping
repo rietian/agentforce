@@ -1,0 +1,47 @@
+{
+    "amount": "14.99",
+    "billToZipCode": "65613",
+    "class": "INV",
+    "currency": "USD",
+    "invoiceDate": "2024-11-28",
+    "invoiceDueAmount": "0",
+    "invoiceNumber": "25013457",
+    "lines": [
+      {
+        "cancelledReason": "INVALID ITEM",
+        "estDeliveryDate": "2025-01-15",
+        "expectedReceivedDate": "2025-01-15",
+        "isbn": "9780582603912",
+        "latestAcceptableDate": "2025-01-15",
+        "number": "1.1",
+        "orderlineShippedDetails": [
+          {
+            "freightCode": "UPS",
+            "pickStatus": "Shipped",
+            "quantityShipped": "1",
+            "trackingNumber": "tracking#123"
+          }
+        ],
+        "price": "14.99",
+        "promisedDate": "2025-01-15",
+        "quantity": "1",
+        "requestDate": "2024-11-28",
+        "salesOrdersourceType": "External",
+        "shippedDate": "2024-12-30",
+        "lastAvailableDate": "2017-07-21",
+        "status": "Awaiting Shipping",
+        "title": "statCrunch -- Instant Access (6-month access)",
+        "txnNotificationEmail": "b2bcustomer@somemail.com",
+        "type": "print"
+      }
+    ],
+    "orderDate": "2024-12-05",
+    "orderNumber": "70000052327022",
+    "orderSystem": "Salesforce",
+    "origSaleOrderNumber": "54716322",
+    "poNumber": "Sagal abdulle14-JAN-25 20:46:02",
+    "shipToZipCode": "65613",
+    "status": "Closed",
+    "totalOrderLines": "5",
+    "type": "print"
+  }
