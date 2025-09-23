@@ -10,6 +10,27 @@
             </script>
             <h1> Ask Agentforce </h1>
             <script type='text/javascript'>
+            	function initEmbeddedMessaging() {
+            		try {
+            			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
+            
+            			embeddedservice_bootstrap.init(
+            				'00DKZ00000D9Xh0',
+            				'EmployeeAgent',
+            				'https://storm-cc764525ce8d82.my.site.com/ESWEmployeeAgent1758594507744',
+            				{
+            					scrt2URL: 'https://storm-cc764525ce8d82.my.salesforce-scrt.com'
+            				}
+            			);
+            		} catch (err) {
+            			console.error('Error loading Embedded Messaging: ', err);
+            		}
+            	};
+            </script>
+            <script type='text/javascript' src='https://storm-cc764525ce8d82.my.site.com/ESWEmployeeAgent1758594507744/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+            <!--
+            <script type='text/javascript'>
                 window.addEventListener("onEmbeddedMessagingReady", () => {
                     console.log("Received the onEmbeddedMessagingReady event…");
                 
@@ -36,7 +57,7 @@
             <script type='text/javascript' src='https://storm-27d5cb8c5930f5.my.site.com/ESWOrderManagementWebD1736150398817/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
             <script>
                 console.log(window.location);
-            </script>
+            </script> -->
         </body>          
     
 </html>
